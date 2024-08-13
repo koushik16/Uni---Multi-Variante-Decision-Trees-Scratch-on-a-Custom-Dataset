@@ -1,4 +1,3 @@
-### What are Decision Trees?
 
 Decision trees are a type of supervised machine learning algorithm used for classification and regression tasks. The structure of a decision tree resembles a tree, where each internal node represents a test or decision on a feature (attribute), each branch represents the outcome of that test, and each leaf node represents a class label (for classification) or a continuous value (for regression).
 
